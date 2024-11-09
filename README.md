@@ -1,8 +1,8 @@
 ## Olá, sou a Isabela!
 
 <div align="center">
-  <img height="130em" src="https://github-readme-stats.vercel.app/api?username=isabela&theme=github_dark&show_icons=true&locale=pt-br&rank_icon=github&hide=contribs" />
-  <img height="130em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=isabela&layout=compact&locale=pt-br&theme=github_dark" />
+  <img height="130em" src="https://github-readme-stats.vercel.app/api?username=isabela-izidorio&theme=github_dark&show_icons=true&locale=pt-br&rank_icon=github&hide=contribs" />
+  <img height="130em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=isabela-izidorio&layout=compact&locale=pt-br&theme=github_dark" />
 </div>
 <br>
 

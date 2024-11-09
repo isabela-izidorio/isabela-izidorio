@@ -39,7 +39,7 @@
 
 𝑪𝒐𝒏𝒆𝒄𝒕𝒆-𝒔𝒆 𝒄𝒐𝒎𝒊𝒈𝒐
 
-<a href="www.linkedin.com/in/isabela-de-melo-izidorio-910401334"> <img height="40" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /> </a>
+<a href="https://www.linkedin.com/in/isabela-de-melo-izidorio-910401334/"> <img height="40" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /> </a>
 
  </div>
 

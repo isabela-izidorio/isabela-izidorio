@@ -1,7 +1,7 @@
 
 <div align="center">
 
-<img height="100em" src="https://github.com/isabela-izidorio/isabela-izidorio/blob/main/banner_verde.png" />
+<img height="100em" src="https://github.com/isabela-izidorio/isabela-izidorio/blob/main/img/banner_nome_verde.png" />
     
 <img height="110em" src="https://i.pinimg.com/originals/9e/ca/56/9eca560aee096c7d4e0ce9cf5f8dd16c.gif" />
 <img align="right" height="225em" src="https://i.pinimg.com/736x/7f/31/ed/7f31edcd4ecc6a9bb5d0eeaf2f065a18.jpg" />

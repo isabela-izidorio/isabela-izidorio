@@ -7,7 +7,7 @@
 <pre>
     💻 Devenvolvimento de Sistemas • Análise de Dados • Programação 
     📖 Estudante de Análise e Desenvolvimento de Sistemas • IFSP
-    🪴 Comunicatidade • Proatividade • Organização
+    🪴 Comunicatividade • Proatividade • Organização
     🍃 Música • Arte • Idiomas • culinária
 </pre>
 

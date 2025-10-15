@@ -4,10 +4,10 @@
 <img height="100em" src="https://github.com/isabela-izidorio/isabela-izidorio/blob/main/img/banner_nome_verde.png" />
 <img height="110em" width="auto" src="https://i.pinimg.com/originals/9e/ca/56/9eca560aee096c7d4e0ce9cf5f8dd16c.gif" />
 <pre>
-    💻 Devenvolvimento de Sistemas • Análise de Dados • Programação 
+    💻 Devenvolvimento Web • Dados • Programação 
     📖 Estudante de Análise e Desenvolvimento de Sistemas • IFSP
     🪴 Comunicatividade • Proatividade • Organização
-    🍃 Música • Arte • Idiomas • culinária
+    🍃 Música • Arte • Idiomas • Culinária
 </pre>
 
 <br>

@@ -14,7 +14,7 @@
 
 ##
 <br>
-  <img height="130em" src="https://github-readme-stats.vercel.app/api?username=isabela-izidorio&theme=github_dark&show_icons=true&locale=pt-br&rank_icon=github&hide=contribs,issues" />
+  <img height="130em" src="https://github-readme-stats.vercel.app/api?username=isabela-izidorio&theme=github_dark&show_icons=true&locale=pt-br&rank_icon=github&include_all_commits=true&hide=contribs,issues" />
   <img height="130em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=isabela-izidorio&layout=compact&locale=pt-br&theme=github_dark" />
 </div>
 <br>

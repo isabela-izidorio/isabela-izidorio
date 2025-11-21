@@ -1,8 +1,7 @@
 
 <div align="center">
 
-<img height="110em" src="https://github.com/isabela-izidorio/isabela-izidorio/blob/main/img/banner_nome_verde.png" />
-<img height="110em" width="110" src="https://i.pinimg.com/originals/9e/ca/56/9eca560aee096c7d4e0ce9cf5f8dd16c.gif" />
+<img height="110em" src="https://github.com/isabela-izidorio/isabela-izidorio/blob/main/img/banner_nome_verde.png" /><img height="110em" width="110" src="https://i.pinimg.com/originals/9e/ca/56/9eca560aee096c7d4e0ce9cf5f8dd16c.gif" />
 <pre>
     💻 Devenvolvimento Web • Dados • Programação 
     📖 Estudante de Análise e Desenvolvimento de Sistemas • IFSP

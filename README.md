@@ -26,7 +26,7 @@
 𝑯𝒂𝒃𝒊𝒍𝒊𝒅𝒂𝒅𝒆𝒔 𝒆 𝒇𝒆𝒓𝒓𝒂𝒎𝒆𝒏𝒕𝒂𝒔
 
   <a>
-    <img src="https://skillicons.dev/icons?i=html,,css,,js,,react,,vite,,nextjs,,py,,mysql" /> 
+    <img src="https://skillicons.dev/icons?i=html,,css,,js,,react,,vite,,nextjs,,py,,mysql,java,,git" /> 
   </a>  
 
 ##
